@@ -17,7 +17,8 @@ The Management Board asked some business questions to use in the 2020 company st
     ● Do sales figures vary between geographic regions?
 
 ### Short overview of what each code do
-Query_3-6-2_Duplicates: checks for duplicates
+
+    Query_3-6-2_Duplicates: checks for duplicates
 
     Query_3-7-1: find the top 10 countries for Rockbuster in terms of customer numbers
 
