@@ -7,9 +7,13 @@ In this exercise, the data analyst should work with the business intelligence (B
 The Management Board asked some business questions to use in the 2020 company strategy:
 
   ● Which movies contributed the most/least to revenue gain?
+  
   ● What was the average rental duration for all videos?
+  
   ● Which countries are Rockbuster customers based in?
+  
   ● Where are customers with a high lifetime value based?
+  
   ● Do sales figures vary between geographic regions?
 
 ### Short overview of what question each code answer
